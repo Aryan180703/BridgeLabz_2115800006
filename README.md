@@ -1,4 +1,5 @@
 C# Learning Journey 🚀
+
 Welcome to my C# learning repository! This is where I document my day-to-day progress as I delve into the world of C#. Each day, I aim to explore new concepts, solve problems, and grow my understanding of the language.
 ________________________________________
 Progress Log
