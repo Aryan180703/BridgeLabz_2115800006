@@ -27,5 +27,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Solved assignments related to these concepts to enhance practical understanding.
 - Explored **Boxing and Unboxing** in C# and understood how value types are converted to reference types (boxing) and vice versa (unboxing).
 
+### 📅 25-01-2025
+- Learned about **arrays** and **multidimensional arrays** in C#.
+- Solved 2 assignments related to these concepts to enhance practical understanding.
+- Practiced the use of arrays and multidimensional arrays for better proficiency.
+
 
 
