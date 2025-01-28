@@ -32,5 +32,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Solved 2 assignments related to these concepts to enhance practical understanding.
 - Practiced the use of arrays and multidimensional arrays for better proficiency.
 
+### 📅 28-01-2025
+- Learned about **methods** and a little about **recursion** in C#.
+- Gained understanding of how to generate numbers using **random**.
+- Solved assignments related to **methods** to enhance practical knowledge.
+
 
 
