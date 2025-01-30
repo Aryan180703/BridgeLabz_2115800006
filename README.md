@@ -37,5 +37,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Gained understanding of how to generate numbers using **random**.
 - Solved assignments related to **methods** to enhance practical knowledge.
 
+### 📅 30-01-2025
+- Learned about **strings** and various **built-in functions** in C#.
+- Solved multiple questions **without using built-in functions** to strengthen problem-solving skills.
+- Revised and practiced **Git commands** to refresh knowledge and improve version control skills.
+
 
 
