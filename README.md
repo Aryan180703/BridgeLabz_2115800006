@@ -42,5 +42,11 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Solved multiple questions **without using built-in functions** to strengthen problem-solving skills.
 - Revised and practiced **Git commands** to refresh knowledge and improve version control skills.
 
+### 📅 31-01-2025  
+- Learned further built-in **date and time functions** in C#.  
+- Explored additional **string functions** for better text manipulation.  
+- Studied **classes and objects** to understand object-oriented programming concepts.  
+- Solved multiple questions on **date and time functions, string functions, and class-object concepts** to reinforce learning.  
+
 
 
