@@ -46,7 +46,13 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Learned further built-in **date and time functions** in C#.  
 - Explored additional **string functions** for better text manipulation.  
 - Studied **classes and objects** to understand object-oriented programming concepts.  
-- Solved multiple questions on **date and time functions, string functions, and class-object concepts** to reinforce learning.  
+- Solved multiple questions on **date and time functions, string functions, and class-object concepts** to reinforce learning.
+
+### 📅 02-02-2025  
+- Learned about **constructors** in C# and understood their role in object initialization.  
+- Explored **access modifiers** (public, private, protected, internal) to control the visibility and accessibility of class members.  
+- Practiced implementing constructors and access modifiers in various scenarios.  
+- Completed assignments related to **constructors** and **access modifiers**, reinforcing practical understanding.
 
 
 
