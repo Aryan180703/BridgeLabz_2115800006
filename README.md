@@ -54,5 +54,11 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Practiced implementing constructors and access modifiers in various scenarios.  
 - Completed assignments related to **constructors** and **access modifiers**, reinforcing practical understanding.
 
+### 📅 04-02-2025  
+- Learned about **OOPs concepts** overview, including core principles like inheritance, encapsulation, polymorphism, and abstraction.  
+- Explored **access modifiers** (public, private, protected, internal) in detail to control the visibility and accessibility of class members.  
+- Practiced implementing **OOPs concepts** and **access modifiers** in various scenarios, such as creating classes, methods, and solving practical problems.  
+- Completed assignments based on **creating classes** and **methods** in different scenarios, reinforcing practical understanding.
+
 
 
