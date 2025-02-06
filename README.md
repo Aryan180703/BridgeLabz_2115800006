@@ -60,5 +60,12 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Practiced implementing **OOPs concepts** and **access modifiers** in various scenarios, such as creating classes, methods, and solving practical problems.  
 - Completed assignments based on **creating classes** and **methods** in different scenarios, reinforcing practical understanding.
 
+### 📅 06-02-2025  
+- Learned about **relationships** in C#: **association**, **aggregation**, and **composition**.  
+- Explored **inheritance** and **constructors**, including default and parameterized constructors.  
+- Applied **relationships** and **OOP** concepts in practical coding exercises.  
+- Completed assignments related to **relationships** and basic **OOP** principles.
+
+
 
 
