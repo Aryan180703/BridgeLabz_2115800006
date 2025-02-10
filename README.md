@@ -66,11 +66,17 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Applied **relationships** and **OOP** concepts in practical coding exercises.  
 - Completed assignments related to **relationships** and basic **OOP** principles.
 
-  ### 📅 08-02-2025  
+### 📅 08-02-2025  
 - Learned about **inheritance** and its **types** in C# with practical examples.  
 - Implemented **single, multilevel, and hybrid inheritance** using **interfaces**.  
 - Solved assignments on **different inheritance types** and their real-world applications.  
 - Understood **constructor execution order** and **method overriding** in inheritance.
+
+### 📅 10-02-2025  
+- Learned about **all OOP concepts** in C# with in-depth understanding and practical implementation.  
+- Solved questions on **encapsulation, inheritance, polymorphism, and abstraction**, ensuring clarity in their usage.  
+- Completed an assignment containing **problem-solving scenarios** that required applying all OOP principles effectively.  
+- Strengthened understanding of **real-world applications** of OOP by implementing concepts in structured programs.
 
 
 
