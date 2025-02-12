@@ -78,6 +78,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Completed an assignment containing **problem-solving scenarios** that required applying all OOP principles effectively.  
 - Strengthened understanding of **real-world applications** of OOP by implementing concepts in structured programs.
 
-
+### 📅 12-02-2025  
+- Learned about **Linked Lists (LL)** and their different types, including **Singly Linked List, Doubly Linked List, and Circular Linked List** in C#.  
+- Understood the **structure, operations, and use cases** of each type of Linked List with practical implementations.  
+- Solved **basic problems** on Linked Lists, including **insertion, deletion, searching, and traversal**.  
+- Completed an **assignment** covering various **scenarios and problem-solving techniques** related to Linked Lists.  
 
 
