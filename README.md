@@ -82,6 +82,12 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Learned about **Linked Lists (LL)** and their different types, including **Singly Linked List, Doubly Linked List, and Circular Linked List** in C#.  
 - Understood the **structure, operations, and use cases** of each type of Linked List with practical implementations.  
 - Solved **basic problems** on Linked Lists, including **insertion, deletion, searching, and traversal**.  
-- Completed an **assignment** covering various **scenarios and problem-solving techniques** related to Linked Lists.  
+- Completed an **assignment** covering various **scenarios and problem-solving techniques** related to Linked Lists.
+
+### 📅 13-02-2025  
+- Learned about **Stack and Queue** and implemented them **from scratch** without using generic collections in C#.  
+- Designed and coded **custom Stack and Queue implementations**, handling all operations like **push, pop, enqueue, dequeue, and peek**.  
+- Solved various **problems** related to Stack and Queue, including **balancing parentheses, reversing elements, and implementing min/max stack**.  
+- Completed an **assignment** focusing on **real-world applications and edge-case handling** for both Stack and Queue.  
 
 
