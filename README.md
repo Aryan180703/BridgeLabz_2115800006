@@ -88,6 +88,12 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Learned about **Stack and Queue** and implemented them **from scratch** without using generic collections in C#.  
 - Designed and coded **custom Stack and Queue implementations**, handling all operations like **push, pop, enqueue, dequeue, and peek**.  
 - Solved various **problems** related to Stack and Queue, including **balancing parentheses, reversing elements, and implementing min/max stack**.  
-- Completed an **assignment** focusing on **real-world applications and edge-case handling** for both Stack and Queue.  
+- Completed an **assignment** focusing on **real-world applications and edge-case handling** for both Stack and Queue.
+
+### 📅 14-02-2025  
+- Learned about **Sorting Algorithms**, covering various techniques like **Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, and Counting Sort**.  
+- Solved **questions** on different sorting algorithms to understand their **time complexity, stability, and best use cases**.  
+- Practiced an **assignment** implementing sorting algorithms on different datasets, focusing on **real-world applications and optimization techniques**.  
+- Analyzed and compared **sorting algorithms' efficiency**, identifying scenarios where each algorithm performs best or worst. 
 
 
