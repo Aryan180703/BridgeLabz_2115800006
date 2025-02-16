@@ -96,4 +96,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Practiced an **assignment** implementing sorting algorithms on different datasets, focusing on **real-world applications and optimization techniques**.  
 - Analyzed and compared **sorting algorithms' efficiency**, identifying scenarios where each algorithm performs best or worst. 
 
+### 📅 15-02-2025  
+- Learned about **Linear Search and Binary Search**, understanding their **working principles, time complexity, and best use cases**.  
+- Studied **File Operations** in C#, including **reading, writing, and handling different file formats**.  
+- Explored **StringBuilder and StringReader**, understanding their **performance benefits over regular string manipulations**.  
+- Solved **various problems** related to **searching algorithms, file handling, and string manipulation** to reinforce understanding.  
+- Completed an **assignment** applying **search algorithms, file operations, and string handling** in different practical scenarios.  
 
