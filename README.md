@@ -103,3 +103,9 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Solved **various problems** related to **searching algorithms, file handling, and string manipulation** to reinforce understanding.  
 - Completed an **assignment** applying **search algorithms, file operations, and string handling** in different practical scenarios.  
 
+### 📅 17-02-2025
+- Compared **Linear Search (O(N))** and **Binary Search (O(log N))**, analyzing **time complexity** and performance for different dataset sizes.
+- Evaluated sorting algorithms: **Bubble Sort (O(N²))**, **Merge Sort (O(N log N))**, and **Quick Sort (O(N log N))**, and compared their performance on datasets of varying sizes (1,000, 10,000, 1,000,000).
+- Analyzed the performance of **String (O(N²))** vs **StringBuilder (O(N))** for string concatenation, emphasizing the significant efficiency difference for large datasets.
+- Tested **StreamReader** vs **FileStream** for reading large files (1MB, 100MB, 500MB), showcasing **FileStream** as more efficient for large binary files.
+- Compared **Recursive (O(2^N))** and **Iterative (O(N))** approaches for Fibonacci computation, highlighting the **iterative approach** as vastly more efficient for large inputs.
