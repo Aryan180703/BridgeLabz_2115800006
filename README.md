@@ -109,3 +109,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Analyzed the performance of **String (O(N²))** vs **StringBuilder (O(N))** for string concatenation, emphasizing the significant efficiency difference for large datasets.
 - Tested **StreamReader** vs **FileStream** for reading large files (1MB, 100MB, 500MB), showcasing **FileStream** as more efficient for large binary files.
 - Compared **Recursive (O(2^N))** and **Iterative (O(N))** approaches for Fibonacci computation, highlighting the **iterative approach** as vastly more efficient for large inputs.
+
+### 📅 18-02-2025  
+- Learned about **Generics in C#**, covering **generic classes, methods, and constraints**.  
+- Implemented and analyzed **generic classes** with constraints to ensure type safety.  
+- Explored **generic methods** and their ability to operate on different data types while maintaining efficiency.  
+- Studied **variance (covariance and contravariance)** in generics and its impact on method parameter and return type flexibility.  
+- Solved questions and implemented **real-world scenarios** using generics, such as **multi-level course management systems and resume screening systems**.  
