@@ -115,4 +115,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Implemented and analyzed **generic classes** with constraints to ensure type safety.  
 - Explored **generic methods** and their ability to operate on different data types while maintaining efficiency.  
 - Studied **variance (covariance and contravariance)** in generics and its impact on method parameter and return type flexibility.  
-- Solved questions and implemented **real-world scenarios** using generics, such as **multi-level course management systems and resume screening systems**.  
+- Solved questions and implemented **real-world scenarios** using generics, such as **multi-level course management systems and resume screening systems**.
+
+### 📅 19-02-2025  
+- Explored **HashSet, LinkedList, and SortedSet**, understanding their use cases, performance, and internal working.  
+- Practiced **Dictionary, SortedDictionary, and LinkedDictionary**, analyzing key-based retrieval, ordering, and performance trade-offs.  
+- Worked with **Queues and Stacks**, implementing real-world scenarios to understand FIFO and LIFO principles.  
+- Deepened knowledge of **ArrayList and LinkedList**, comparing their advantages, disadvantages, and optimal usage scenarios.  
