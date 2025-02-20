@@ -121,4 +121,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Explored **HashSet, LinkedList, and SortedSet**, understanding their use cases, performance, and internal working.  
 - Practiced **Dictionary, SortedDictionary, and LinkedDictionary**, analyzing key-based retrieval, ordering, and performance trade-offs.  
 - Worked with **Queues and Stacks**, implementing real-world scenarios to understand FIFO and LIFO principles.  
-- Deepened knowledge of **ArrayList and LinkedList**, comparing their advantages, disadvantages, and optimal usage scenarios.  
+- Deepened knowledge of **ArrayList and LinkedList**, comparing their advantages, disadvantages, and optimal usage scenarios.
+
+### 📅 20-02-2025  
+- Learned about **C# I/O Streams** and their role in handling data input and output.  
+- Explored different **Types of Streams**, including File Streams, Object Streams, ByteArray Streams, and Buffered Streams.  
+- Practiced using **Reader and Writer** classes for character-based input and output operations.  
+- Analyzed **Key Considerations** for efficient stream usage, focusing on performance and resource management.  
