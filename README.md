@@ -127,4 +127,10 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Learned about **C# I/O Streams** and their role in handling data input and output.  
 - Explored different **Types of Streams**, including File Streams, Object Streams, ByteArray Streams, and Buffered Streams.  
 - Practiced using **Reader and Writer** classes for character-based input and output operations.  
-- Analyzed **Key Considerations** for efficient stream usage, focusing on performance and resource management.  
+- Analyzed **Key Considerations** for efficient stream usage, focusing on performance and resource management.
+
+### 📅 21-02-2025 
+- Learned about **C# Exception Handling** and its importance in managing runtime errors.  
+- Explored different scenarios where exceptions can occur and how to handle them gracefully.  
+- Practiced solving various problems related to exception handling, similar to the ones solved on 20-02-2025.  
+- Analyzed the use of `try`, `catch`, `finally`, and `throw` statements to ensure robust and maintainable code.  
