@@ -133,4 +133,18 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Learned about **C# Exception Handling** and its importance in managing runtime errors.  
 - Explored different scenarios where exceptions can occur and how to handle them gracefully.  
 - Practiced solving various problems related to exception handling, similar to the ones solved on 20-02-2025.  
-- Analyzed the use of `try`, `catch`, `finally`, and `throw` statements to ensure robust and maintainable code.  
+- Analyzed the use of `try`, `catch`, `finally`, and `throw` statements to ensure robust and maintainable code.
+
+### 📅 22-02-2025  
+- Learned about **Regular Expressions (Regex)** in C#, including their syntax and usage for pattern matching.  
+- Explored various **Regex Patterns** to handle complex text processing scenarios.  
+- Practiced solving **Regex Problems** to gain better understanding and proficiency.  
+- Gained hands-on experience with **NUnit Testing** for unit testing in C#.  
+- Tried various **NUnit Test Cases** to understand test structures, assertions, and best practices.  
+
+### 📅 24-02-2025  
+- Learned about **Annotations in C#** and their role in metadata definition and customization.  
+- Explored the use of **Custom Attributes** and built custom annotations for specific scenarios.  
+- Gained in-depth knowledge of **Reflection in C#** for inspecting and manipulating objects at runtime.  
+- Practiced and solved **Various Problems** to reinforce the concepts of annotations and reflection.  
+- Analyzed real-world applications of **Reflection and Annotations** for dynamic programming and framework design.  
