@@ -147,4 +147,11 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Explored the use of **Custom Attributes** and built custom annotations for specific scenarios.  
 - Gained in-depth knowledge of **Reflection in C#** for inspecting and manipulating objects at runtime.  
 - Practiced and solved **Various Problems** to reinforce the concepts of annotations and reflection.  
-- Analyzed real-world applications of **Reflection and Annotations** for dynamic programming and framework design.  
+- Analyzed real-world applications of **Reflection and Annotations** for dynamic programming and framework design.
+
+### 📅 25-02-2025  
+- Learned about **Reading and Writing CSV Files** in C# with dynamic data handling.  
+- Practiced **Filtering, Searching, and Sorting** CSV records efficiently.  
+- Explored **Data Validation and Duplicate Detection** using Regex and logic checks.  
+- Mastered **Merging CSV Files** and **Converting between JSON and CSV**.  
+- Implemented **Encryption and Decryption** for sensitive CSV data.  
