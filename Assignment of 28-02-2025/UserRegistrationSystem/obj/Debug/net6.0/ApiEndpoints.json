@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "UserRegistrationSystem.Controllers.UserRegistrationController",
+    "Method": "Get",
+    "RelativePath": "UserRegistration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UserRegistrationSystem.Controllers.UserRegistrationController",
+    "Method": "Post",
+    "RelativePath": "UserRegistration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerUserDTO",
+        "Type": "ModelLayer.DTO.RegisterUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

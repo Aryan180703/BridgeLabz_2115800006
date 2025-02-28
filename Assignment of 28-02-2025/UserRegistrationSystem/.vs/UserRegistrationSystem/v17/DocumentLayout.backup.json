@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vpush\\Desktop\\#\\UserRegistrationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|c:\\users\\vpush\\desktop\\#\\userregistrationsystem\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEBA6BF-DAAE-496C-8CA0-06C94A18DABA}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\vpush\\desktop\\#\\businesslayer\\service\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E1A9CC-0798-4CC9-8CF8-BE73534461A1}|..\\ClassLibrary1\\RepositoryLayer.csproj|c:\\users\\vpush\\desktop\\#\\classlibrary1\\service\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\vpush\\Desktop\\#\\BusinessLayer\\Service\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\vpush\\Desktop\\#\\BusinessLayer\\Service\\UserRegistration.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\UserRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:45:08.872Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vpush\\Desktop\\#\\ClassLibrary1\\Service\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Service\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\vpush\\Desktop\\#\\ClassLibrary1\\Service\\UserRepository.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Service\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:19:32.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\vpush\\Desktop\\#\\UserRegistrationSystem\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\vpush\\Desktop\\#\\UserRegistrationSystem\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vyAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:39:10.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
