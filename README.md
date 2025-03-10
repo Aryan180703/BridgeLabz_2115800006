@@ -154,4 +154,64 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Practiced **Filtering, Searching, and Sorting** CSV records efficiently.  
 - Explored **Data Validation and Duplicate Detection** using Regex and logic checks.  
 - Mastered **Merging CSV Files** and **Converting between JSON and CSV**.  
-- Implemented **Encryption and Decryption** for sensitive CSV data.  
+- Implemented **Encryption and Decryption** for sensitive CSV data.
+
+📅 **26-02-2025**  
+- Learned about JSON file handling, including serialization and deserialization.  
+- Practiced reading and writing JSON files in C# using `System.Text.Json` and `Newtonsoft.Json`.  
+- Explored handling nested JSON structures and converting between objects and JSON.  
+- Solved various questions to reinforce understanding of JSON processing in real-world scenarios.  
+
+📅 **28-02-2025**  
+- Understood the fundamentals of 3-layer architecture and its advantages in software development.  
+- Learned the basics of ASP.NET Core Web API, including controllers, routing, and middleware.  
+- Explored how to structure a Web API project using 3-layer architecture.  
+- Understood dependency injection and how it helps in decoupling layers.  
+
+📅 **01-03-2025**  
+- Learned about the fundamentals of ASP.NET Core Web API and how it works.  
+- Explored the concept of controllers and their role in handling HTTP requests.  
+- Implemented basic `GET`, `POST`, `PUT`, and `DELETE` methods in a controller.  
+- Understood how to structure API endpoints and their significance in Web API.  
+
+📅 **02-03-2025**  
+- Learned about API testing using Postman, including sending requests with different HTTP methods.  
+- Practiced sending headers, query parameters, and request bodies in Postman.  
+- Understood response codes (`200 OK`, `400 Bad Request`, `401 Unauthorized`, etc.) and their meaning.  
+- Analyzed API request-response flow and debugging common API issues using Postman.  
+
+📅 **03-03-2025**  
+- Introduced Entity Framework Core and its role in database integration.  
+- Learned how to configure a database using EF Core and perform migrations.  
+- Implemented basic CRUD operations using EF Core in the Repository Layer.  
+- Connected the Business Layer to the Repository Layer for structured logic handling.  
+
+📅 **04-03-2025**  
+- Explored database queries and how to optimize them for better performance.  
+- Learned about connection strings and how to securely configure them in `appsettings.json`.  
+- Understood the importance of dependency injection in ASP.NET Core Web API.  
+- Practiced implementing repository patterns to separate concerns.  
+
+📅 **05-03-2025**  
+- Integrated Swagger for API documentation and testing endpoints easily.  
+- Explored Swagger annotations and customization for better API visibility.  
+- Understood logging in ASP.NET Core using `ILogger` and implemented NLog for better logging.  
+- Configured NLog to log API requests, responses, and errors efficiently.  
+
+📅 **06-03-2025**  
+- Created a user registration API, implementing password hashing and salting using a method similar to `PBKDF2`.  
+- Learned about authentication mechanisms and why salting is necessary for secure password storage.  
+- Implemented a basic authentication system without JWT for now.  
+- Understood the importance of securing user credentials in an API.  
+
+📅 **07-03-2025**  
+- Learned about caching mechanisms and explored how caching can improve API performance.  
+- Understood the concept of distributed caching and when to use Redis.  
+- Explored the basics of message queuing and its benefits in asynchronous processing.  
+- Prepared to implement RabbitMQ for event-driven communication.  
+
+📅 **08-03-2025**  
+- Learned about RabbitMQ and its role in message queuing systems.  
+- Understood how RabbitMQ helps in decoupling services and improving scalability.  
+- Explored the basics of publishing and consuming messages using RabbitMQ.  
+- Practiced implementing a basic RabbitMQ producer and consumer setup.  
