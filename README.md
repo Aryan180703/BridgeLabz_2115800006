@@ -181,25 +181,25 @@ Welcome to my C# learning repository! This is where I document my day-to-day pro
 - Analyzed API request-response flow and debugging common API issues using Postman.  
 
 📅 **03-03-2025**  
+- Learned about connection strings and how to securely configure them in `appsettings.json`.  
 - Introduced Entity Framework Core and its role in database integration.  
 - Learned how to configure a database using EF Core and perform migrations.  
 - Implemented basic CRUD operations using EF Core in the Repository Layer.  
-- Connected the Business Layer to the Repository Layer for structured logic handling.  
 
 📅 **04-03-2025**  
-- Explored database queries and how to optimize them for better performance.  
-- Learned about connection strings and how to securely configure them in `appsettings.json`.  
 - Understood the importance of dependency injection in ASP.NET Core Web API.  
 - Practiced implementing repository patterns to separate concerns.  
+- Explored best practices for structuring the Repository and Business Layers.  
+- Ensured proper separation of concerns by avoiding direct database access in the Controller Layer.
 
 📅 **05-03-2025**  
 - Integrated Swagger for API documentation and testing endpoints easily.  
 - Explored Swagger annotations and customization for better API visibility.  
-- Understood logging in ASP.NET Core using `ILogger` and implemented NLog for better logging.  
+- Understood logging in ASP.NET Core using `NLog`.  
 - Configured NLog to log API requests, responses, and errors efficiently.  
 
 📅 **06-03-2025**  
-- Created a user registration API, implementing password hashing and salting using a method similar to `PBKDF2`.  
+- Created a user registration API, implementing password hashing and salting.  
 - Learned about authentication mechanisms and why salting is necessary for secure password storage.  
 - Implemented a basic authentication system without JWT for now.  
 - Understood the importance of securing user credentials in an API.  
